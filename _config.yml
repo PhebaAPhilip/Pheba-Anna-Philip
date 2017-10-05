@@ -1,19 +1,19 @@
 # main text of home
-name: Muhammed Shibin
-bio: mail@shibin.co
+name: Arya Murali
+bio: hello@aryamurali.com 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Arya's Personal Blog
 
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/shibin.jpg
+picture: assets/images/arya.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
@@ -22,7 +22,7 @@ url: https://koppl.in/indigo
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-106204942-1'
+#analytics-google: 'UA-106204942-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: shibinco
-twitter: shibinco
+facebook: aryacmurali
+twitter: aryacmurali
 # google: mygoogle
-instagram: shibin.co
+instagram: aryacmurali
 # pinterest: mypinterest
-linkedin: shibinco
+linkedin: aryamurali
 # youtube: myyoutube
 # spotify: myspotify
-github: shibinco
+#github: shibinco
 # lastfm: mylastfm
-stackoverflow: 5859831/muhammed-shibin
+#stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
 # reddit: username
-medium: shibinco
+medium: arya-murali
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: mail@shibin.co
+email: hello@aryamurali.com
 
 authors:
     johndoe:
