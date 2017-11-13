@@ -1,9 +1,9 @@
 # main text of home
 name: Pheba Anna Philip
-bio: 
+bio: Welcome!
 
 # twitter summary info
-description:  Blog
+# description:  
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/pheba.jpg
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://drive.google.com/file/d/1u7Qb4qm_uvM0ltFhAj2lVbXBaUfh9XSH/view?usp=sharing
+resume-url: https://drive.google.com/drive/folders/1FWSLGWa2OXNNKEao6XEI6o04DfWcl9Un?usp=sharing
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
