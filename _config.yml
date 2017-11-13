@@ -12,8 +12,8 @@ picture: assets/images/Arya.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://koppl.in/indigo
@@ -37,7 +37,7 @@ disqus:
 facebook: aryacmurali
 twitter: aryacmurali
 # google: mygoogle
-instagram: aryacmurali
+#instagram: 
 # pinterest: mypinterest
 linkedin: aryamurali
 # youtube: myyoutube
