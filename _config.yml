@@ -82,9 +82,9 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: true
-blog-external: true
-blog-url: https://pracetas.wordpress.com/author/annaphe/
+#blog: true
+#blog-external: true
+#blog-url: https://pracetas.wordpress.com/author/annaphe/
 
 # do you want to show the "read time" of the posts?
 read-time: true
