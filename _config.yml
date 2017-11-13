@@ -7,12 +7,13 @@ bio: Welcome!
 
 # if it's an external image, update below for true
 # better with square images
+image: true
 external-image: true
-picture: Pheba-Anna-Philip/assets/images/pheba.jpg
+picture: assets/images/pheba.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
 resume-url: https://drive.google.com/drive/folders/1FWSLGWa2OXNNKEao6XEI6o04DfWcl9Un?usp=sharing
 
@@ -81,7 +82,9 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: false
+blog: true
+blog-external: true
+blog-url: https://pracetas.wordpress.com/author/annaphe/
 
 # do you want to show the "read time" of the posts?
 read-time: true
