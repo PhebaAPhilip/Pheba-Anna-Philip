@@ -16,9 +16,7 @@ picture: assets/images/pheba.jpg
 resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1-OtyiGzu18gonwQrq_kZ7Io3jqnMfGAg/view?usp=sharing
-blog: true
-blog-external: true
-blog-url: https://pracetas.wordpress.com/author/annaphe/
+
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -85,7 +83,9 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-
+#blog: false
+#blog-external: false
+#blog-url: https://pracetas.wordpress.com/author/annaphe/
 # do you want to show the "read time" of the posts?
 read-time: true
 
