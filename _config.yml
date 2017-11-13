@@ -1,6 +1,6 @@
 # main text of home
 name: Pheba Anna Philip
-bio: hi
+bio: 
 
 # twitter summary info
 description:  Blog
@@ -8,13 +8,13 @@ description:  Blog
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/Pheba.jpg
+picture: assets/images/pheba.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: false
-resume-url: <google drive link>
+resume-external: true
+resume-url: https://drive.google.com/file/d/1u7Qb4qm_uvM0ltFhAj2lVbXBaUfh9XSH/view?usp=sharing
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -35,22 +35,23 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: pheba.annaphilip
-twitter: aryacmurali
+twitter: anna_pheba
 # google: mygoogle
 instagram: anna_pheba
 # pinterest: mypinterest
-linkedin: aryamurali
+linkedin: pheba-anna-philip
 # youtube: myyoutube
 # spotify: myspotify
-#github: shibinco
+#github: 
 # lastfm: mylastfm
 #stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
 # reddit: username
-medium: arya-murali
+medium: @pheba96
+wordpress: @annaphe
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: hello@aryamurali.com
+email: hello@phebaphilip.com
 
 authors:
     johndoe:
