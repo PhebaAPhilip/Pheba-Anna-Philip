@@ -14,8 +14,8 @@ picture: assets/images/pheba.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-external-resume: true
-resume-url: Pheba-Anna-Philip/assets/images/Pheba_Resume (1).pdf
+resume-external: true
+resume-url: https://drive.google.com/file/d/1-OtyiGzu18gonwQrq_kZ7Io3jqnMfGAg/view?usp=sharing
 
 
 url: https://koppl.in/indigo
