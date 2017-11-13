@@ -15,7 +15,7 @@ picture: assets/images/pheba.jpg
 # and specify source (external or local).
 resume: true
 external-resume: true
-resume: assets/Pheba_Resume (1).pdf
+resume-url: Pheba-Anna-Philip/assets/images/Pheba_Resume (1).pdf
 
 
 url: https://koppl.in/indigo
