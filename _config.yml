@@ -1,7 +1,7 @@
 # main text of home
 name: Pheba Anna Philip
-bio: Program Manager at Microsoft | GHCI 2017 Student Scholar
-     Trivandrum, India
+bio: Program Manager at Microsoft | GHCI 2017 Student Scholar | Trivandrum, India
+     
 
 # twitter summary info
 # description:  
@@ -10,7 +10,7 @@ bio: Program Manager at Microsoft | GHCI 2017 Student Scholar
 # better with square images
 image: true
 external-image: true
-picture: assets/images/IMG_1649(2).jpg
+picture: assets/images/IMG_1649 (2).jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
