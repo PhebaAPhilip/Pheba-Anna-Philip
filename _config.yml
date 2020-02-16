@@ -9,8 +9,8 @@ bio: Program Manager at Microsoft | GHCI 2017 Student Scholar | Trivandrum, Indi
 # if it's an external image, update below for true
 # better with square images
 image: false
-external-image: true
-picture: Pheba-Anna-Philip/assets/images/IMG_1649 (2).JPG
+external-image: false
+#picture: Pheba-Anna-Philip/assets/images/IMG_1649 (2).JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
