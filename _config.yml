@@ -8,7 +8,7 @@ bio: Program Manager at Microsoft | GHCI 2017 Student Scholar | Trivandrum, Indi
 
 # if it's an external image, update below for true
 # better with square images
-image: true
+image: false
 external-image: true
 picture: Pheba-Anna-Philip/assets/images/IMG_1649 (2).JPG
 
@@ -40,12 +40,12 @@ disqus:
 facebook: pheba.annaphilip
 twitter: anna_pheba
 # google: mygoogle
-instagram: anna_pheba
+#instagram: anna_pheba
 # pinterest: mypinterest
 linkedin: pheba-anna-philip
 # youtube: myyoutube
 # spotify: myspotify
-github: PhebaAPhilip
+#github: PhebaAPhilip
 # lastfm: mylastfm
 #stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
